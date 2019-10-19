@@ -5,6 +5,7 @@ _____Task 20/10/2019______
 http://wiki.ros.org/melodic/Installation/Ubuntu
 và cài tiếp 
 https://github.com/fpt-corp/DiRa/tree/master/DiRa_Software/ROS_Package_example 
+(dòng cuối cùng thay sudo apt-get install ros-melodic-rosbridge-server )
 2.cài đặt thư viện : scipy, rospkg, opencv-python, opencv-contrib-python
 sau khi cài đặt xong các thư mục trên tải file code để lấy data từ mô phỏng về.
 https://github.com/tuyennhoangg/TuyenVH/tree/master/File/team500 
