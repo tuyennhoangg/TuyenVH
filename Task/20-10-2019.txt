@@ -5,7 +5,7 @@ _____Task 20/10/2019______
 http://wiki.ros.org/melodic/Installation/Ubuntu
 2.cài đặt thư viện : scipy, rospkg, opencv-python, opencv-contrib-python
 sau khi cài đặt xong các thư mục trên tải file code để lấy data từ mô phỏng về.
-https://github.com/tuyennhoangg/tuyennhoangg/tree/master/File/team500
+https://github.com/tuyennhoangg/TuyenVH/tree/master/File/team500 
 thực hiện catkin_make.
 và file mô phỏng 
 https://drive.google.com/open?id=1xVlm9bfXtzGfOPIy4B0X-kFcEoVqdayY
