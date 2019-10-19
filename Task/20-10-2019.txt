@@ -7,7 +7,7 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 sau khi cài đặt xong các thư mục trên tải file code để lấy data từ mô phỏng về.
 https://github.com/tuyennhoangg/TuyenVH/tree/master/File/team500 
 thực hiện catkin_make.
-và file mô phỏng 
+và tfile mô phỏng 
 https://drive.google.com/open?id=1xVlm9bfXtzGfOPIy4B0X-kFcEoVqdayY
 các bước thực hiện: 1 roslaunch team500 team500.launch 
                     2 chạy file mô phỏng lên ( lưu ý mỗi lần chạy code thì phải tắt đi bật lại chương trình )
