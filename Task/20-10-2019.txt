@@ -25,5 +25,5 @@ và lưu ý sủa lại số cam2_1.avi, depth2_1.avi sau mỗi lần chạy l�
 cap1 = cv2.VideoWriter('/home/toy/Documents/cam2_1.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 60, (320, 240))
 cap2 = cv2.VideoWriter('/home/toy/Documents/depth2_1.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 60, (320, 240))
 ***************NOTE_3***************
-Vì mai là 20/10 nên 
+Vì mai là 20/10 nên :3 
 DEADLINE : 7h tối thứ 2 nha !
