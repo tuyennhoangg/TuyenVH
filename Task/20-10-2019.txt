@@ -1,0 +1,29 @@
+ 
+_____Task 20/10/2019______
+
+1.cài đặt ros melodic 
+http://wiki.ros.org/melodic/Installation/Ubuntu
+2.cài đặt thư viện : scipy, rospkg, opencv-python, opencv-contrib-python
+sau khi cài đặt xong các thư mục trên tải file code để lấy data từ mô phỏng về.
+https://github.com/tuyennhoangg/tuyennhoangg/tree/master/File/team500
+thực hiện catkin_make.
+và file mô phỏng 
+https://drive.google.com/open?id=1xVlm9bfXtzGfOPIy4B0X-kFcEoVqdayY
+các bước thực hiện: 1 roslaunch team500 team500.launch 
+                    2 chạy file mô phỏng lên ( lưu ý mỗi lần chạy code thì phải tắt đi bật lại chương trình )
+                    3 chương trình mô phỏng đăng nhập bằng team1 và port là:   ws://127.0.0.1:9090
+********NOTE*********
+Khôi : public1-2019
+Tuyên: public2-2019
+Quang: public3-2019
+lấy 5 lần chạy, sau mỗi lần chạy lưu video dưới dạng như sau: 
+VD anh làm file mổ phỏng public2-2019 và chạy lần 1 nên đặt tên dưới dạng : cam2_1.avi, depth2_1.avi
+Lần 2,3,4,5 thì lưu dạng cam2_2.avi, depth2_2.avi, cam2_3.avi, depth2_3.avi,......
+********NOTE_2*********
+đây là đường dẫn lưu file của máy anh, nên các bạn sửa lại đường dẫn bằng tên user của các bạn nhé,
+và lưu ý sủa lại số cam2_1.avi, depth2_1.avi sau mỗi lần chạy lấy mẫu.
+cap1 = cv2.VideoWriter('/home/toy/Documents/cam2_1.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 60, (320, 240))
+cap2 = cv2.VideoWriter('/home/toy/Documents/depth2_1.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 60, (320, 240))
+***************NOTE_3***************
+Vì mai là 20/10 nên 
+DEADLINE : 7h tối thứ 2 nha !
