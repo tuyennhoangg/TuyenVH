@@ -30,3 +30,5 @@ cap2 = cv2.VideoWriter('/home/toy/Documents/depth2_1.avi',cv2.VideoWriter_fourcc
 ***************NOTE_3***************
 Vì mai là 20/10 nên :3 
 DEADLINE : 7h tối thứ 2 nha !
+Sau khi hoàn thành xong upload lên driver của anh :
+https://drive.google.com/open?id=1nHRIlIQ_cbJ50mMdp2CxxoLcE4cupoZQ
